@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.shaadi</groupId>
-	<artifactId>shaadi-assignment</artifactId>
+	<groupId>com.flipkart</groupId>
+	<artifactId>flipkart-assignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shaadi-assignment</name>
-	<description>Shaadi assignment using TestNG and Maven</description>
+	<name>flipkart-assignment</name>
+	<description>Flipkart assignment using TestNG and Maven</description>
 
 	<!-- Add Following Lines in Your POM File -->
 	<properties>
